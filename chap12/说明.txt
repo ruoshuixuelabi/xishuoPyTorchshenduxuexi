@@ -1,0 +1,2 @@
+在服务器运行了这个代码。
+(dlib_fae) ~/project/dlib_face_detect$
